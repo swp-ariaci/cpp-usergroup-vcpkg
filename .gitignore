@@ -1,1 +1,7 @@
+/.vs
+/vcpkg_installed
+/msbuild
+/x64
+/Debug
+/Release
 !*.obj
