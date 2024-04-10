@@ -1,0 +1,20 @@
+{
+  "version": "0.2.1",
+  "defaults": {},
+  "configurations": [
+    {
+      "type": "default",
+      "project": "CMakeLists.txt",
+      "projectTarget": "vsghouseviewer.exe (Debug\\vsghouseviewer.exe)",
+      "name": "vsghouseviewer.exe (Debug\\vsghouseviewer.exe)",
+      "args": [ "\"${workspaceRoot}/../data/Projekt_Gapp_BV_Am_Haegele.obj\"" ]
+    },
+    {
+      "type": "default",
+      "project": "CMakeLists.txt",
+      "projectTarget": "vsghouseviewer.exe (Release\\vsghouseviewer.exe)",
+      "name": "vsghouseviewer.exe (Release\\vsghouseviewer.exe)",
+      "args": [ "\"${workspaceRoot}/../data/Projekt_Gapp_BV_Am_Haegele.obj\"" ]
+    }
+  ]
+}
